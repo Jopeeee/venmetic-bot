@@ -1,0 +1,45 @@
+address: 185.223.31.120
+queryport: 10011
+serverquerylogin: serveradmin
+serverquerypassword: xyz
+nickname: Venmetic | Bot
+virtualserverid: 1
+support:
+  warteraum: 61
+  channel1: 64
+  channel2: 65
+  channel3: 66
+  beendet: 67
+  serverleitung: 62
+admin:
+  - QH+pYLlYZFcHkslkkNUF/3k4DBE=
+  - h5173EkNEP3nSIlEQNG3Cr/B1XE=
+  - PDXZdBq1MI2qA+phkZO/yp3yz14=
+  - Mg4ozAV6MbBCf37tdJRmmO+swY4=
+techniker:
+  - QH+pYLlYZFcHkslkkNUF/3k4DBE=
+rankid:
+  admin: 10
+  srdev: 16
+  dev: 17
+  test-dev: 18
+  srcontent: 19
+  content: 20
+  test-content: 53
+  srmod: 15
+  mod: 13
+  test-mod: 14
+  srbuilder: 21
+  builder: 22
+  test-builder: 23
+  sup: 12
+  test-sup: 11
+  designer: 25
+  youtuber: 42
+  venmate-plus: 43
+  venmate: 7
+  freund: 45
+  ruhe: 54
+  nopoke: 55
+  adminpoke: 47
+  supportpoke: 39
